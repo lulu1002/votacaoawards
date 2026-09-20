@@ -1,6 +1,6 @@
 {
-  "name": "votacao-app",
-  "version": "1.0.0",
+  "name": "voteawards",
+  "version": "2.0.0",
   "description": "Sistema de votacao por categoria com painel admin (Supabase)",
   "main": "server.js",
   "engines": {
@@ -24,3 +24,4 @@
     "ws": "^8.18.0"
   }
 }
+
